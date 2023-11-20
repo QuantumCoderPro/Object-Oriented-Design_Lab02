@@ -5,13 +5,14 @@ This repository contains Java code examples that illustrate the concept of abstr
 
 **
 Key Features:**
+
 **Abstract Classes:**
 
 The repository includes an abstract class called Shape that represents a general shape.
 Demonstrates how abstract classes allow for the definition of common behavior while leaving specific implementation details to concrete subclasses.
 
-**Interfaces:
-**
+**Interfaces:**
+
 Introduces interfaces such as Printable and Drawable to showcase multiple inheritance and the implementation of specific behaviors in classes.
 Illustrates how interfaces provide a way to achieve abstraction by defining a contract for classes to implement.
 
